@@ -1,0 +1,43 @@
+body {
+    background-color: azure;
+    text-align:center;
+}
+h1 {
+    color:blue;
+    text-align : center;
+
+}
+h3 {
+    color: red;
+    text-align: center;
+    font-size: 14px;
+}
+
+.div1 {
+    color: green;
+    font-family: Verdana;
+    font-size: 18px;
+    text-align: center;
+
+
+}
+
+.div2 {
+    border: 4px , rgb(4, 23, 36);
+    padding: 16px;
+    font-size: 14px;
+    font-weight: bolder;
+    text-align:center;
+
+
+}
+
+.div3 {
+    border: 4px solid, mediumaquamarine;
+    background-color : lightskyblue;
+    padding: 16px;
+    font-size:14px;
+    font-weight:bold;
+    text-align: center;
+    
+}
